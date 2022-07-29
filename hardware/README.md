@@ -1,4 +1,9 @@
 ## Signed integers
+### Little Endian and Big Endian
+![image](https://user-images.githubusercontent.com/72094319/181782516-6e276eae-7789-410b-bf5f-581d67754eba.png)
+![image](https://user-images.githubusercontent.com/72094319/181782544-0cdf742b-a435-462d-87e7-f12accf9d67c.png)
+![image](https://user-images.githubusercontent.com/72094319/181782569-8a60962e-86dd-4d1c-a8ce-16721f940107.png)
+
 ### Sign and magnitude method
 **Most significant bit - sign bit: 0 - positive, 1 - negative**
 
