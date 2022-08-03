@@ -19,3 +19,4 @@
 ### Architectures: AVR, ARM, MIPS
 ### Peculiarities
 - Only the simplest instructions of a fixed length and the same running time
+![image](https://user-images.githubusercontent.com/72094319/182631597-1aca290b-53c3-44bb-bcc9-1b3f938d812e.png)
