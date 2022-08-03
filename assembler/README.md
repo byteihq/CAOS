@@ -20,3 +20,4 @@
 ### Peculiarities
 - Only the simplest instructions of a fixed length and the same running time
 ![image](https://user-images.githubusercontent.com/72094319/182631597-1aca290b-53c3-44bb-bcc9-1b3f938d812e.png)
+![image](https://user-images.githubusercontent.com/72094319/182632670-a4566c9b-8bee-421e-bcfb-aaf2e4035e13.png)
